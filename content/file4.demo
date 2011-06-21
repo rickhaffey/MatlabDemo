@@ -1,0 +1,10 @@
+
+Now we'll look a little bit at basic vectors.
+
+To create a row vector, you can enter a list of space or comma separated
+values surrounded by square brackets:
+
+    >> V = [1 0 0]
+
+Try it now.
+

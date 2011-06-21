@@ -1,0 +1,32 @@
+==============================
+= Matlab Demo | Page 1 of 20 =
+==============================
+-------- Overview ------------
+
+This is a demo of basic Matlab functionality.
+
+The demo will step through some basic Matlab concepts, and give you a chance
+to enter commands to try out the various features.
+
+When it's your turn to enter something, the demo will show you what to
+type at the command line, using the following convention:
+
+    >> xyz + 123 ...
+
+It will then pause and put you at the command promt.  
+
+Once you're done entering the command(s) and reviewing the results, type in
+the command 'next' (or 'forward') at the command prompt, and the demo will 
+continue where you left off.
+
+If the current step of the demo is cleared or pushed off screen, you can 
+show it again by typing 'refresh'.
+
+And if you ever want to go back to a previous step, type 'back' (or 'previous').
+
+Let's try it now.  Type in the following command to move to the next step:
+
+    >> next
+
+
+(<< 'back' || 'refresh' || 'next' >>)

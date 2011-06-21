@@ -1,0 +1,16 @@
+
+Our first real work in Matlab will be with scalars.  These are discrete
+values 
+
+    >> N = 5
+
+Matlab will accept the input, and then display the result of the evaluation.
+
+If you follow the assignment with a semicolon ';', Matlab will still accept
+and evaluate the result, but will not display the result back to the command
+window:
+
+    >> N = 5;
+
+Try it now before moving to the next step.
+

@@ -1,0 +1,7 @@
+Repository for storing both the Matlab script and function files,
+as well as the actual demo content files, for a basic Matlab demo.
+
+Based on a couple of other demos similar demos.  Tries to follow
+a pattern similar to the demo or tutorial built into emacs, where the
+flow of the tutorial is controlled using elisp, and the tutorial user
+has some level of control of the steps viewed.

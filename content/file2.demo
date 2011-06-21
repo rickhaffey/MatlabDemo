@@ -1,0 +1,18 @@
+Nice work.  
+
+Now, let's start off with our first Matlab concept: Comments.
+
+Although not used very often on the command line, when you start working in
+script or function files, it's helpful to be able to enter comments into 
+your code.  Comments in Matlab are indicated using the '%' symbol:
+
+For example:
+% This is a pretty uninformative comment...
+
+If you'd like, try entering a comment or two on the command line.  You'll
+notice that not much happens when you do.  (Although the text formatting
+in green gives some indication that you've entered a comment.)  
+
+Once you're done, type the following to go to the next demo topic:
+
+    >> nextstep
